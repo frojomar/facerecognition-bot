@@ -1,0 +1,2 @@
+start - Da la bienvenida al bot y recibe una breve descripción de uso
+addperson - Permite añadir una persona con el nombre que acompañe al comando
